@@ -1,4 +1,4 @@
 def introduction(name)
-  name = Josh
+  con = Josh
   puts "Hi, my name is #{name}."
 end
